@@ -1,2 +1,3 @@
 # gitconfigtest
 message
+hello Tuesday
